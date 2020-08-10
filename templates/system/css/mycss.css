@@ -383,9 +383,9 @@ a.play-video-slide:hover, a.play-video-slide:focus, a.play-video-slide:active {
     color: white;
 }
 
-.normal-page .head-right .navbar-header button.btn.btn-primary.off-canvas-toggle i.fa-bars {
+/*.normal-page .head-right .navbar-header button.btn.btn-primary.off-canvas-toggle i.fa-bars {
     color: white;
-}
+}*/
 
 .scrollUp .head-right .navbar-header button.btn.btn-primary.off-canvas-toggle i.fa-bars {
     color: #454545;
@@ -618,7 +618,7 @@ and (-webkit-min-device-pixel-ratio:2) {
         margin-right: -10px;
     }
 
-    body .row {
+   /* body .row {
         margin-left: -2px;
         margin-right: -2px;
     }
@@ -626,7 +626,7 @@ and (-webkit-min-device-pixel-ratio:2) {
     body .container {
         width: 942px;
         padding: 0px;
-    }
+    }*/
 
     header.t3-header div div.container {
         padding-left: 10px;
@@ -686,7 +686,7 @@ and (-webkit-min-device-pixel-ratio:1) {
         margin-right: -10px;
     }
 
-    body .row {
+   /* body .row {
         margin-left: -2px;
         margin-right: -2px;
     }
@@ -694,7 +694,7 @@ and (-webkit-min-device-pixel-ratio:1) {
     body .container {
         width: 942px;
         padding: 0px;
-    }
+    }*/
 
     header.t3-header div div.container {
         padding-left: 10px;

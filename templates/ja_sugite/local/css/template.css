@@ -7295,6 +7295,9 @@ body #ezblog-dashboard #blog-login form input.button:active {
   .com_easyblog #eblog-wrapper #ezblog-body .blog-text {
     text-align: justify;
   }
+  .home ul.pm-header-info li p, .home ul.pm-header-info li.phone p a{
+    color: #454545 !important;
+  }
 }
 .pricing-table {
   padding-top: 28px;
@@ -7392,6 +7395,7 @@ body #ezblog-dashboard #blog-login form input.button:active {
   z-index: 2;
 }
 @media screen and (min-width: 992px) {
+
   .pricing-table .col-feature {
     margin-top: -28px;
   }
@@ -7701,7 +7705,7 @@ ul.pm-header-info li.phone p a:hover {
 
 @media only screen 
 and (min-device-width : 300px) 
-and (max-device-width : 747px) { 
+and (max-device-width : 991px) { 
 	.container.t3-mainbody article h1, .container.t3-mainbody article .h1 {
 		font-size:32px;
 	}
@@ -7830,7 +7834,9 @@ and (max-device-width : 747px) {
 	}
 	.custom ul.pm-header-info li p a {
         font-size: 20px;
+        
     }
+
 	.funfacts-content.col-sm-3 {
 		width:50%;
 	}
