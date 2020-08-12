@@ -20,6 +20,9 @@ body t3-mainbody p {
     display: block;
   }
 }
+.article-intro img, .article-content img{
+  max-width: 100%;
+}
 .t3-logo,
 .t3-logo-small {
   display: block;
@@ -583,6 +586,7 @@ samp {
 .jumbotron iframe {
   margin-top: 28px;
 }
+
 @-webkit-keyframes popUp {
   70% {
     opacity: 0.8;

@@ -1619,3 +1619,8 @@ and (max-device-width : 667px) {
 }
 
 
+@media(max-width: 658px){
+    .page-header{
+        padding-top: 20px;
+    }
+}
