@@ -8399,3 +8399,17 @@ and (max-device-width : 1024px)  {
     margin: 0 -60px;
   }
 }
+.avVideo .avPlayerContainer .avPlayerBlock {
+    width: 100%!important;
+    position: relative!important;
+    padding: 0 0 56% 0!important;
+}
+.avVideo .avPlayerContainer .avPlayerBlock iframe, .avVideo .avPlayerContainer .avPlayerBlock object, .avVideo .avPlayerContainer .avPlayerBlock embed, .avVideo .avPlayerContainer .avPlayerBlock video, .avVideo .avPlayerContainer .avPlayerBlock > div{
+  position: absolute!important;
+    top: 0;
+    left: 0;
+    min-width: 100%!important;
+    width: 100%!important;
+    max-width: 100%;
+    height: 100%!important;
+}
