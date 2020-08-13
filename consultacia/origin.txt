@@ -1,0 +1,176 @@
+Uri: http://medconnectfile.mosfile.ru/
+File Name: D:\webcopy\medconnectfile.mosfile.ru\index.htm
+Content Type: text/html
+
+Uri: http://medconnectfile.mosfile.ru/favicon.ico
+File Name: D:\webcopy\medconnectfile.mosfile.ru\favicon.ico
+Content Type: image/x-icon
+
+Uri: http://medconnectfile.mosfile.ru/css/reset.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\reset.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/style.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\style.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/font-awesome.min.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/storage/
+File Name: D:\webcopy\medconnectfile.mosfile.ru\storage\index.htm
+Content Type: text/html
+
+Uri: http://medconnectfile.mosfile.ru/js/jquery.formstyler.min.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\jquery.formstyler.min.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/classie.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\classie.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/dropzone.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\dropzone.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/languages/dropzone-ru.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\languages\dropzone-ru.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/jquery.custom-scrollbar.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\jquery.custom-scrollbar.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/tFormer.min.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\tFormer.min.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/jquery-ui-dialog.min.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\jquery-ui-dialog.min.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/js/custom.js
+File Name: D:\webcopy\medconnectfile.mosfile.ru\js\custom.js
+Content Type: application/x-javascript
+
+Uri: http://medconnectfile.mosfile.ru/img/logo_mc.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\logo_mc.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/fonts/OpenSans-Regular.ttf
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\OpenSans-Regular.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/OpenSans-Light.ttf
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\OpenSans-Light.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/OpenSans-Semibold.ttf
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\OpenSans-Semibold.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/OpenSans-Bold.ttf
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\OpenSans-Bold.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/img/icon_plus.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\icon_plus.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/ic_dropzone.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\ic_dropzone.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/lang_rus.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\lang_rus.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/lang_en.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\lang_en.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/flag.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\flag.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/but_search.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\but_search.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort_h.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort_h.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort_asc.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort_asc.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort_desc.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort_desc.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort_asc_h.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort_asc_h.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/img/arr_sort_desc_h.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\arr_sort_desc_h.png
+Content Type: image/png
+
+Uri: http://medconnectfile.mosfile.ru/css/jquery-ui-dialog.min.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\jquery-ui-dialog.min.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/jquery-ui-dialog.theme.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\jquery-ui-dialog.theme.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/jquery.formstyler.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\jquery.formstyler.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/basic.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\basic.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/dropzone.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\dropzone.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/css/jquery.custom-scrollbar.css
+File Name: D:\webcopy\medconnectfile.mosfile.ru\css\jquery.custom-scrollbar.css
+Content Type: text/css
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.eot?
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont-1.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont-2.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont-3.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont-4.bin
+Content Type: application/octet-stream
+
+Uri: http://medconnectfile.mosfile.ru/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\webcopy\medconnectfile.mosfile.ru\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://medconnectfile.mosfile.ru/img/logo_remsmed.png
+File Name: D:\webcopy\medconnectfile.mosfile.ru\img\logo_remsmed.png
+Content Type: image/png
+

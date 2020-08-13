@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Отправка файла :: Спортивная травматология и ортопедия в Германии</title>
+    <!-- Mobile Metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" type="text/css" href="css\reset.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css\style.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="css\font-awesome.min.css" media="screen">
+
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="js\jquery.formstyler.min.js"></script>
+    <script type="text/javascript" src="js\classie.js"></script><!-- hide/show content in the fields login-->
+    <script type="text/javascript" src="js\dropzone.js"></script> <!-- plugin drag-and-drop file uploader-->
+    <script type="text/javascript" src="languages\dropzone-ru.js"></script>
+    <script type="text/javascript" src="js\jquery.custom-scrollbar.js"></script>
+	<script type="text/javascript" src="js\tFormer.min.js"></script> <!-- validation form -->
+    <script type="text/javascript" src="js\jquery-ui-dialog.min.js"></script>
+    <script type="text/javascript" src="js\custom.js"></script>
+
+    <script src='https://www.google.com/recaptcha/api.js'></script>
+
+    
+</head>
+<body>
+<header id="header" class="header clearFix">
+    <div class="h_inn clearFix">
+        <div class="h_lt">
+            <h1>
+                <a href="http://medical-connections.ru" class="h_logo_lt" target="_blank"><img src="img\logo_mc.png" alt="Medical Connection" width="56" height="56"></a>
+               
+            </h1>
+        </div>
+        <div class="h_rt">
+			<a href="storage\index.htm" class="h_enter">Вход для врача</a>
+            <!--- <a id="lk_help" href="#" class="h_help">Нужна помошь?</a> --->
+            <select class="lang">
+                <option class="lang-ru" value="" selected="">ru</option>
+                <option class="lang-en" value="en">en</option>
+            </select>
+        </div>
+    </div>
+</header>
+<div id="container" class="container">
+    <main id="content" class="content">
+		<section id="dropzoneWrapper">
+			<div class="wr_dropzone">
+	            <form action="/upload" class="dropzone" id="dropzone" method="post" enctype="multipart/form-data">
+					<input type="hidden" name="p_uid" value="5f352a4ea1fa1">
+	                <input class="dropzone_btn dropzone_btn_inn displayN" type="button" title="Добавить файлы">
+
+	            </form>
+	        </div>
+			<p class="dropzone-p">Допустимые расширения: jpg, png, pdf, zip, rar, iso, doc, docx</p>
+		</section>
+		
+		<section id="linkInputWrapper">
+			<input type="text" name="linkToFile" id="linkToFile" placeholder="Если у вам есть ссылка на обследование, то вставьте ее сюда" class="input__field--yoshiko input__field">
+			<i class="fa fa-chain-broken" aria-hidden="true"></i>
+		</section>
+		<input class="dropzone_btn dropzone_choose_file dropzone_btn_out displayN" type="button" value="или загрузите файл через эту кнопку">
+        <section class="login">
+            <form id="user_info" action="/send.php" method="post">
+				<input type="hidden" name="p_uid" value="5f352a4ea1fa1">
+				<input type="hidden" name="p_lang" value="ru">
+                <span class="input input--yoshiko login_fld_name">
+                    <input class="input__field input__field--yoshiko" type="text" id="field-name" name="u_name" data-rules="* l>=10 reg=^[а-яА-ЯёЁa-zA-Z\s]+$">
+                    <label class="input__label input__label--yoshiko" for="field-name">
+                        <span class="input__label-content input__label-content--yoshiko" data-content="Ваше имя и фамилия">Ваше имя и фамилия</span>
+                    </label>
+			<span class="v_note fld_name__v_note">Минимум 10 символов. Допускаются только буквенные символы. </span>
+                </span>
+                <span class="input input--yoshiko login_fld_tel">
+                    <input class="input__field input__field--yoshiko" type="text" id="field-tel" name="u_tel" data-rules="* l>=5">
+                    <label class="input__label input__label--yoshiko" for="field-tel">
+                        <span class="input__label-content input__label-content--yoshiko" data-content="Телефон или email">Телефон или email</span>
+                    </label>
+			<span class="v_note fld_tel__v_note">Минимальное число символов 5</span>
+                </span>
+                <span class="input input--yoshiko login_fld_comment">
+                    <textarea class="input__field input__field--yoshiko txt__field" id="field-comment" name="u_comment"></textarea>
+                    <label class="input__label input__label--yoshiko" for="field-comment">
+                        <span class="input__label-content input__label-content--yoshiko" data-content="Комментарий">Комментарий</span>
+                    </label>
+                </span>
+
+                <div class="g-recaptcha" data-sitekey="6LfoVxEUAAAAACXfZ9IMGHqwlr1xxGflx_kCzaZo"></div>
+
+
+                <input id="upload_files" type="submit" value="Отправить">
+            </form>
+        </section>
+		<section id="make_archive" class="make_archive">
+			<header>
+				<h1>Как сделать архив</h1>
+				<a href="#" id="lk_arch"><i class="fa fa-youtube-play"></i>Посмотрите видео инструкцию</a>
+			</header>
+			<ul class="steps">
+				<li>
+					<h2>Шаг 1<i class="fa fa-arrow-right" aria-hidden="true"></i></h2>
+					<p>Сделайте новую папку на рабочем столе.</p>
+				</li>
+				<li>
+					<h2>Шаг 2<i class="fa fa-arrow-right" aria-hidden="true"></i></h2>
+					<p>Скопируйте в нее все файлы с обследованием, что у вас есть.</p>
+				</li>
+				<li>
+					<h2>Шаг 3</h2>
+					<p>Кликните правой кнопкой мыши на иконке папки и в выпадающем меню выберите пункт «Сжать «Новая папка».</p>
+				</li>
+			</ul>
+		</section>
+    </main>
+</div>
+<footer id="footer" class="footer">
+    <div class="f_inn">
+		<span class="tel">+49 89 922 79 655</span>
+        <span class="f_lt">&copy; 2015  Medical Connections.</span>
+        
+        <span class="f_rt">
+			
+			<span class="consulting">Консультации на русском</span>
+
+		</span>
+    </div>
+</footer>
+
+<div id="dlg_help" title="Помощь">
+
+</div>
+<div id="dlg_arch" class="dlg-arch" title="">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BUgKvRd0LXM?rel=0&showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+</div>
+</body>
+</html>
