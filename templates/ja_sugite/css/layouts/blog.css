@@ -140,3 +140,10 @@
 .blog-detail .article-aside {
   padding-top: 5px;
 }
+
+@media(max-width: 1199px){
+  .blog-items{
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+}
